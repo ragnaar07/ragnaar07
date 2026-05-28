@@ -1,67 +1,100 @@
 # Hi, I'm Aryan Sharma 👋
 
+**AI/ML Engineer | Software Engineer**  
 **Location:** Bangana, Una, Himachal Pradesh  
-**Education:** B.Tech in Electrical Engineering, National Institute of Technology Hamirpur (CGPA: 7.91, graduating July 2025)  
+**Education:** B.Tech in Electrical Engineering, National Institute of Technology Hamirpur  
+
+🌐 **Portfolio:** [aryan-sharma-portfolio-eta.vercel.app](https://aryan-sharma-portfolio-eta.vercel.app)  
+📫 **Email:** aryan.engineer783@gmail.com  
+🔗 **LinkedIn:** [aryansh7](https://www.linkedin.com/in/aryansh7/)  
 
 ---
 
 ## 👨‍💻 About Me
-Electrical Engineering student with a strong foundation in control systems, signal processing, and machine learning. Passionate about applying technical skills and practical experience in dynamic roles focused on digital and integrated signaling, contributing to the development and optimization of intelligent railway systems.
+
+AI/ML-focused engineer with hands-on experience in Python, machine learning, GenAI workflows, automation, C++, Linux, and industrial software validation. I build practical intelligent systems, including predictive maintenance pipelines, RAG-style assistants, automation tooling, and validation middleware for real engineering environments.
 
 ---
 
-## 🎯 Objective
-Seeking opportunities to apply my expertise in control systems, data analysis, and machine learning to real-world engineering challenges—especially in energy and automation domains.
+## 🎯 Focus Areas
+
+- AI/ML engineering and applied machine learning
+- GenAI, RAG, LangChain, and document Q&A systems
+- Python automation and data pipelines
+- C++ systems and validation middleware
+- Linux development workflows
+- Industrial software, SCADA, and grid automation use cases
 
 ---
 
 ## 🏫 Education
+
 **National Institute of Technology Hamirpur**  
-_B.Tech in Electrical Engineering_ (July 2025)  
-**Coursework:**  
-- Control Systems
-- Signal Processing
+_B.Tech in Electrical Engineering_  
+
+**Relevant coursework:**
 - Machine Learning
 - Data Structures and Algorithms
+- Control Systems
+- Signal Processing
+- Power Systems
 
 ---
 
 ## 💼 Experience
 
-**SJVN Ltd. — Industrial Trainee (Hydropower Operations)**  
-_May 2024 – June 2024, Shimla, Himachal Pradesh_  
-- Investigated and analyzed hydroelectric plant control, protection, and generation systems.
-- Evaluated electrical system layouts and schematic diagrams for a 1500 MW power station.
+**Alstom Transport India Ltd. — Graduate Engineer Trainee | Industrial Software**  
+_August 2025 – April 2026, Bangalore, India_  
+- Built modular C++ validation middleware for railway control data.
+- Worked with Linux, CMake, GDB, Git-based workflows, and Python regression automation.
+- Developed structured rule evaluation and reporting workflows for industrial validation.
 
-**Leond Hydro Power Pvt. Ltd. — Industrial Trainee**  
-_May 2023 – June 2023, Kangra, Himachal Pradesh_  
-- Gained practical experience with a 2 MW hydroelectric project.
-- Collaborated with site engineers to supervise electrical installation tasks.
+**SJVN Ltd. — Industrial Trainee | SCADA & Grid Automation**  
+_May 2024 – June 2024, Shimla, Himachal Pradesh_  
+- Studied SCADA monitoring workflows for a 1500 MW hydropower station.
+- Analyzed industrial sensor data pipelines, control-room workflows, and grid automation systems.
 
 ---
 
 ## 🛠 Projects
 
-**Predictive Maintenance for Power Transformers using ML**  
-_Tools: Python, Scikit-learn, ML Models (2024)_  
-- Built a dual-stage machine learning framework to predict transformer health and categorize maintenance needs.
-- Enhanced reliability and enabled proactive, data-driven maintenance.
+**Transformer Predictive Maintenance**  
+_Tools: Python, Scikit-learn, XGBoost, Random Forest, SHAP, Streamlit_  
+- Built an ML pipeline to predict transformer health and maintenance priority.
+- Used explainability techniques to make model outputs easier to interpret.
+
+**AI Chatbot with RAG**  
+_Tools: Python, LangChain, FAISS, OpenAI API workflows_  
+- Built a document Q&A assistant with vector search, prompt templates, and REST-style integration.
+
+**AI Automation Pipeline**  
+_Tools: Python, FastAPI, Hugging Face transformers_  
+- Built an automation workflow for scraping, chunking, embedding, and summarizing web content.
+
+**Audio Processor**  
+_Tools: Python_  
+- Signal-processing and automation project useful for AI/ML data pipeline foundations.  
+- [View repository](https://github.com/ragnaar07/audio-processor)
 
 **Portfolio Website**  
-_Tools: HTML, CSS, JavaScript (2023)_  
-- Designed and deployed a responsive personal website to showcase projects and technical skills.  
-- [Visit my portfolio](https://aryn078.pythonanywhere.com)
+_Tools: Next.js, TypeScript, Tailwind CSS, Vercel_  
+- Personal portfolio for AI/ML engineering, software projects, resume/CV, and contact.  
+- [Visit portfolio](https://aryan-sharma-portfolio-eta.vercel.app)
+- [View repository](https://github.com/ragnaar07/aryan-sharma-portfolio)
 
 ---
 
 ## 🧑‍💻 Technical Skills
-**Programming Languages:** Python, C++, Java, MATLAB  
-**Tools/Libraries:** Scikit-learn, NumPy, Pandas, MATLAB Simulink, Git, Jupyter  
-**Platforms:** Google Colab, MATLAB, GitHub, VS Code  
+
+**Languages:** Python, C++, MATLAB  
+**AI/ML:** Scikit-learn, XGBoost, SHAP, Pandas, NumPy, Hugging Face, LangChain  
+**Backend & Tools:** FastAPI, Git, Linux, CMake, GDB, REST APIs  
+**Platforms:** GitHub, VS Code, Jupyter, Google Colab, Vercel  
 
 ---
 
 ## 🏅 Extracurricular
+
 - Event Head, ELSOC
 - Co-ordinator, Team OJAS
 - Captain, Electrical Volleyball Team
@@ -69,11 +102,12 @@ _Tools: HTML, CSS, JavaScript (2023)_
 ---
 
 ## 📫 Contact & Socials
+
+- **Portfolio:** [aryan-sharma-portfolio-eta.vercel.app](https://aryan-sharma-portfolio-eta.vercel.app)
 - **Email:** aryan.engineer783@gmail.com
-- [LinkedIn](http://linkedin.com/in/aryansh7/)
-- [Twitter (X)](https://x.com/sheldonsays__)
-- [Portfolio Website](https://aryn078.pythonanywhere.com)
+- **LinkedIn:** [aryansh7](https://www.linkedin.com/in/aryansh7/)
+- **GitHub:** [ragnaar07](https://github.com/ragnaar07)
 
 ---
 
-> *Always eager to learn, collaborate, and create! Feel free to connect or reach out for projects, research, or engineering opportunities.*
+> Always learning, building, and open to AI/ML, software engineering, automation, and industrial systems opportunities.
